@@ -31,7 +31,7 @@
 
 OSPTEK **3.97″ 480×800 TFT** is a **MIPI** color display module driven by **GC9503CV**. Suited to handheld devices, portrait instruments, and compact HMI.
 
-Spec ID (repository name): `3.97-tft-480x800-mipi-gc9503cv`
+Spec ID (repository name): `tft-3.97-480x800-mipi-gc9503cv`
 
 Current module version: **YDP397B001-V1**. Electrical and mechanical details follow [`docs/YDP397B001-V1.pdf`](./docs/YDP397B001-V1.pdf).
 
@@ -57,7 +57,7 @@ Current module version: **YDP397B001-V1**. Electrical and mechanical details fol
 ## Repository layout
 
 ```text
-3.97-tft-480x800-mipi-gc9503cv/                                # repo root (nav: ../../README_EN.md)
+tft-3.97-480x800-mipi-gc9503cv/                                # repo root (nav: ../../README_EN.md)
 └── versions/
     └── YDP397B001-V1/                                # full materials for this part number
         ├── README.md
