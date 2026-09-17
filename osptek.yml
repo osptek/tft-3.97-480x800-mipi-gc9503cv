@@ -6,6 +6,7 @@ panel: tft
 resolution: 480x800
 interface: [mipi]
 shape: rect
+corner: sharp
 
 versions:
   - id: YDP397B001-V1
