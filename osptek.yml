@@ -1,0 +1,14 @@
+id: tft-3.97-480x800-mipi-gc9503cv
+category: displays
+
+size: "3.97"
+panel: tft
+resolution: 480x800
+interface: [mipi]
+shape: rect
+
+versions:
+  - id: YDP397B001-V1
+    driver: GC9503CV
+    touch: none
+    note: none
